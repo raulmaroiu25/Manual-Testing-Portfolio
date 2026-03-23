@@ -1,3 +1,5 @@
+TC_LOGIN_009 – Login with “Remember Me” checked 
+
 Steps:
 Navigate to login page
 
