@@ -1,3 +1,5 @@
+TC_LOGIN_006 – Login with empty password .md
+
 Steps:
 Navigate to the login page
 
