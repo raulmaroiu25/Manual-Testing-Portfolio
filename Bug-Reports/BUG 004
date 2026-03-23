@@ -1,0 +1,17 @@
+# BUG-004 – Password field shows characters in plain text
+
+**Severity:** Critical  
+**Module:** Login  
+
+## Steps to Reproduce
+1. Navigate to Login page
+2. Type password
+
+## Expected Result
+Password characters should be masked
+
+## Actual Result
+Password is visible
+
+## Status
+Open
