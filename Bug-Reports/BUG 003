@@ -1,0 +1,18 @@
+# BUG-003 – Search returns results for empty input
+
+**Severity:** Medium  
+**Module:** Search  
+
+## Steps to Reproduce
+1. Open Search page
+2. Leave search field empty
+3. Click Search
+
+## Expected Result
+Message: "Please enter a search term"
+
+## Actual Result
+Random results are displayed.
+
+## Status
+Open
