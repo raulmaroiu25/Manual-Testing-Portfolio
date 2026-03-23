@@ -1,3 +1,5 @@
+TC_LOGIN_008 – Login with special characters
+
 Steps:
 Navigate to login page
 
