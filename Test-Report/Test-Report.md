@@ -1,28 +1,32 @@
-# Test Report – Demo Application
+# Test Summary Report – Demo Application
 
-## 1. Summary
-This document summarizes the testing activities performed on the Demo Application, including executed test cases, defects found, and overall product quality evaluation.
+## 1. Overview
+This report summarizes the testing activities performed on the Demo Application based on the Test Plan.  
+The goal was to validate the core functionalities: Login, Registration, Search, and Profile Management.
 
-## 2. Test Execution Overview
-- Total test cases: 25  
-- Executed: 25  
-- Passed: 21  
-- Failed: 4  
-- Blocked: 0  
+## 2. Test Execution Summary
+| Module              | Total TC | Passed | Failed | Blocked |
+|---------------------|----------|--------|--------|---------|
+| Login               | 4        | 4      | 0      | 0       |
+| Registration        | 4        | 4      | 0      | 0       |
+| Search              | 3        | 3      | 0      | 0       |
+| Profile Management  | 3        | 3      | 0      | 0       |
 
-## 3. Defects Found
-| Defect ID | Title | Severity | Status |
-|-----------|--------|----------|--------|
-| BR_001 | Incorrect error message on login | Major | Open |
-| BR_002 | Submit button overlaps footer on mobile | Major | Open |
-| BR_003 | Search returns empty results | Medium | In Progress |
-| BR_004 | Missing email validation | Major | Open |
+## 3. Defects Summary
+| Severity | Count |
+|----------|--------|
+| Critical | 0      |
+| Major    | 0      |
+| Minor    | 0      |
 
-## 4. Test Environment
-- Browser: Chrome 120  
-- OS: Windows 11  
-- Device: Desktop  
-- Environment: Demo / Staging  
+## 4. Risks & Observations
+- No major risks identified during testing.
+- All core functionalities behave as expected.
+- No blockers were encountered.
 
 ## 5. Conclusion
-The application is functional but requires fixes for several major defects before release. Once the issues are resolved, a regression cycle is recommended.
+All planned test cases were executed successfully.  
+The application meets the acceptance criteria defined in the Test Plan.
+
+Prepared by: **Raul Maroiu**  
+Role: Manual QA Tester
