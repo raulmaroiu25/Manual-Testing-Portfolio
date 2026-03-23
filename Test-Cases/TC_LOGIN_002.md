@@ -1,3 +1,5 @@
+TC_LOGIN_002 – Login with invalid password
+
 Module: Authentication
 Preconditions: User has an active account
 
