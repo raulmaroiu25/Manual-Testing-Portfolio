@@ -1,0 +1,19 @@
+# BUG-001 – Login button remains disabled after entering valid credentials
+
+**Severity:** Major  
+**Module:** Login  
+
+## Steps to Reproduce
+1. Navigate to Login page
+2. Enter valid email
+3. Enter valid password
+4. Observe Login button
+
+## Expected Result
+Login button becomes enabled.
+
+## Actual Result
+Login button remains disabled.
+
+## Status
+Open
