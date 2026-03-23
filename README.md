@@ -1,62 +1,73 @@
-# 📘 Manual Testing Portfolio – Raul
+# 🧪 QA Portfolio – Raul
 
-Acest repository conține documente de testare manuală realizate pe aplicații web publice precum OrangeHRM Demo, DemoQA sau alte aplicații similare. Scopul acestui proiect este să demonstrez modul meu de lucru, atenția la detalii și abilitățile practice în testare manuală.
-
----
-
-## 📂 Structura proiectului
-
-### 📁 Test-Cases
-Scenarii de testare detaliate:
-- Login
-- Register
-- Search
-- Add to Cart
-- Form Validation
-- Negative test cases
-- Edge cases
-
-### 📁 Test-Plan
-Document care include:
-- Scope
-- Out of Scope
-- Test Strategy
-- Test Levels
-- Test Types
-- Risks & Mitigations
-- Entry / Exit Criteria
-
-### 📁 Test-Report
-Raport final de testare:
-- Rezultate
-- Defecte găsite
-- Concluzii
-- Recomandări
-
-### 📁 Checklists
-Liste rapide de verificare:
-- UI Checklist
-- Functional Checklist
-- Regression Checklist
-- Smoke Checklist
-
-### 📁 Traceability-Matrix
-Legătura dintre cerințe și test cases:
-- Requirement ID → Test Case ID → Status
+This repository contains my complete Quality Assurance portfolio, showcasing my skills in manual testing, bug reporting, API testing, test automation, and SQL. Each project included here demonstrates my testing approach, attention to detail, and ability to document and execute test scenarios in a professional manner.
 
 ---
 
-## 🎯 Scopul proiectului
+## 📂 Portfolio Structure
 
-Acest portofoliu demonstrează:
-- Abilitatea de a crea documentație QA completă
-- Gândire logică și structurată
-- Atenție la detalii
-- Înțelegerea procesului de testare manuală
+### ✔ 1. Manual Testing Portfolio
+Documentation for manual testing, including:
+- Test Cases
+- Test Plan
+- Test Report
+- Checklists
+- Traceability Matrix
+
+➡ Dedicated repository: *to be added*
+
+---
+
+### ✔ 2. Bug Reports Collection
+A collection of real bugs found in public applications:
+- Structured bug reports
+- Screenshots / videos (when applicable)
+- Bug report template
+
+➡ Dedicated repository: *to be added*
+
+---
+
+### ✔ 3. API Testing – Postman
+API testing using Postman:
+- Exported Postman collection
+- Environment file
+- Automated tests (JavaScript)
+- Execution instructions
+
+➡ Dedicated repository: *to be added*
+
+---
+
+### ✔ 4. Automation Testing – Playwright
+End‑to‑end automation project:
+- Automated tests (login, form submission, search)
+- Playwright configuration
+- Installation and execution guide
+
+➡ Dedicated repository: *to be added*
+
+---
+
+### ✔ 5. SQL Practice
+SQL queries commonly used in QA:
+- SELECT
+- JOIN
+- GROUP BY
+- Data validation
+- Duplicate detection
+
+➡ Dedicated repository: *to be added*
+
+---
+
+## 🎯 Purpose of This Portfolio
+
+The goal of this portfolio is to demonstrate my practical QA skills and the way I approach different types of testing. Each project reflects a real QA workflow and highlights my commitment to delivering high‑quality results.
 
 ---
 
 ## 📫 Contact
 
-- **Email:** *maroiuraul@yahoo.com*
-- **LinkedIn:** *www.linkedin.com/in/raulmaroiu*
+- **Email:** maroiuraul@yahoo.com  
+- **LinkedIn:** www.linkedin.com/in/raulmaroiu
