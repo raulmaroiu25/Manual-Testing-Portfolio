@@ -1,40 +1,79 @@
 # Manual Testing Portfolio
 
-This repository contains a complete manual testing portfolio designed to demonstrate practical QA skills, structured documentation, and the ability to design and execute test scenarios.
+This repository contains my complete Manual Testing Portfolio, created to demonstrate my ability to design, structure, and document test scenarios for both UI and API testing.  
+The project include multiple categories of test cases, each written in a clear, consistent, and professional format.
 
-## 📌 Contents
+---
 
-- Login Test Cases
-- Registration Test Cases
-- Search Test Cases
-- Form Validation
-- Boundary Value Analysis
-- Negative Test Cases
-- Usability Test Cases
-- Security Test Cases
-- Performance Test Cases
-- Edge Cases
-- API Test Cases
+## 📁 Project Structure
 
-Each folder contains detailed manual test cases written in a clear and structured format.
+The portfolio is organized into the following sections:
 
-## 🎯 Purpose
+- **Login Test Cases**
+- **Registration Test Cases**
+- **Search Test Cases**
+- **Form Validation Test Cases**
+- **Boundary Value Analysis**
+- **Negative Test Cases**
+- **Usability Test Cases**
+- **Security Test Cases**
+- **Performance Test Cases**
+- **Edge Cases**
+- **API Test Cases**
 
-The goal of this portfolio is to showcase:
+Each folder contains individual `.md` files with detailed manual test cases.
 
-- Understanding of QA methodologies
-- Ability to design test cases
-- API testing fundamentals
-- Organized documentation
-- Real-world testing scenarios
+---
 
-## 🧰 Tools Used
+## 🎯 Purpose of This Portfolio
 
-- GitHub (documentation & version control)
-- Postman (API testing)
-- Manual testing techniques
+The goal of this repository is to showcase:
 
-## 👤 Author
+- My understanding of QA methodologies  
+- Ability to design clear and structured test cases  
+- Coverage of multiple testing types (functional, negative, boundary, usability, security, performance, API)  
+- Professional documentation skills  
+- Familiarity with Postman and API testing concepts  
 
-Raul Maroiu  
-Manual QA Tester
+This portfolio reflects the workflow and documentation style used in real QA environments.
+
+---
+
+## 🧰 Tools & Skills Demonstrated
+
+- **Manual Testing Techniques**
+- **Test Case Design**
+- **Boundary Value Analysis**
+- **Negative Testing**
+- **Usability & Security Testing**
+- **API Testing (Postman)**
+- **GitHub for documentation & version control**
+
+---
+
+## 🧭 How to Navigate This Repository
+
+- Each folder contains test cases grouped by category  
+- Files follow a consistent naming format:  
+  `TC_<MODULE>_<NUMBER>.md`  
+- Test cases include:  
+  - Title  
+  - Module  
+  - Steps  
+  - Expected Result  
+  - Priority  
+  - Status  
+
+---
+
+## 👤 About Me
+
+My name is *Raul Maroiu*, and I am a Manual QA Tester focused on creating clear, structured, and practical test documentation.  
+This portfolio represents my approach to testing, organization, and attention to detail.
+
+---
+
+## 📬 Contact
+
+If you want to connect or discuss QA topics, feel free to reach out.
+
