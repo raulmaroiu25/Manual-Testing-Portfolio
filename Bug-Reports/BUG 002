@@ -1,0 +1,18 @@
+# BUG-002 – Registration form accepts invalid email format
+
+**Severity:** Major  
+**Module:** Registration  
+
+## Steps to Reproduce
+1. Open Registration page
+2. Enter "test@com" as email
+3. Submit form
+
+## Expected Result
+Validation error: "Invalid email format"
+
+## Actual Result
+Form is submitted successfully.
+
+## Status
+Open
